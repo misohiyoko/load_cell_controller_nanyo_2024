@@ -1,0 +1,15 @@
+../Core/Src/MX25L.c:58:6:SPI_Init	8	static
+../Core/Src/MX25L.c:63:6:SPI_Transfer	32	static
+../Core/Src/MX25L.c:75:6:Get_Identification	24	static
+../Core/Src/MX25L.c:87:6:GetStatus	24	static
+../Core/Src/MX25L.c:97:6:SetWriteEnable	16	static
+../Core/Src/MX25L.c:104:6:SetStatus	16	static
+../Core/Src/MX25L.c:113:6:Erase	16	static
+../Core/Src/MX25L.c:117:6:SectorErase	16	static
+../Core/Src/MX25L.c:127:6:BlockErase	16	static
+../Core/Src/MX25L.c:137:6:ChipErase	8	static
+../Core/Src/MX25L.c:146:6:SetAddress	16	static
+../Core/Src/MX25L.c:153:6:Write	32	static
+../Core/Src/MX25L.c:167:6:Read	40	static
+../Core/Src/MX25L.c:180:6:FastRead	40	static
+../Core/Src/MX25L.c:194:6:ProtectBlock	32	static
